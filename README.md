@@ -1,4 +1,4 @@
-<p class="p1"><span class="s1"># basicFramework</span></p>
+# basicFramework
 <p class="p2"><span class="s1">基础：强代理架构</span></p>
 <p class="p2"><span class="s1">适用环境：多人开发</span></p>
 ![image](https://github.com/DarksKnight/basicFramework/blob/master/basicuml.png)
