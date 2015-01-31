@@ -1,7 +1,7 @@
 <p class="p1"><span class="s1"># basicFramework</span></p>
 <p class="p2"><span class="s1">基础：强代理架构</span></p>
 <p class="p2"><span class="s1">适用环境：多人开发</span></p>
-<p class="p3"><span class="s2">![image](<a href="https://github.com/DarksKnight/basicFramework/blob/master/basicuml.png"><span class="s3">https://github.com/DarksKnight/basicFramework/blob/master/basicuml.png</span></a>)</span></p>
+![image](https://github.com/DarksKnight/basicFramework/blob/master/basicuml.png)
 <p class="p2"><span class="s1">简介：</span></p>
 <p class="p2"><span class="s1">自己想出的一种设计模式，不是很难，大多数应该自己也想到并且开发过，但是我没有在其他地方看到过有类似的架构，所以我将其命名为强代理架构。</span></p>
 <p class="p2"><span class="s1">这个架构，主要是多角色开发，这仅仅为基础型架构，可以在这基础上添加更多东西，使其更加丰富。</span></p>
